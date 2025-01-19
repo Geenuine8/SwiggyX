@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StarWarX</string>
+    <string name="fetching_data">Fetching Data…</string>
+</resources>
